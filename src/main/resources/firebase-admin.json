@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "nandhaproject-37058",
-  "private_key_id": "7866596d219603019194300980e7037e8ad2ef4a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZDf3kInxZBI9X\n1cMP7K0xVR89VW0mxuY++Cf4XWWrLWAB6dNZkUt72J3yCI78C4ABswirnoQCDN+L\nk32lWaCnw3GScUwXA1/1ZivOqwLWm/eiEY4pYFtHdpDiHzabT8j6sXlAhE+iYkQc\nE+U9iHbePvnFNN8HWrNLFwKlyU5Af0Y/12h3W40+nL1sWY3DEvlLuVTp1Qgr/xtu\n8+hkYLC7ZyqwLK8AzwH3wFZPcq/AiqiqE6JgxvMXvaaypUJmb7cN+gG+4YyCHMGm\nmkfiI6n/rewq1Iu4Z5EO+/fT2Oy3u/GvS9xO/lv1l1IaOk9jptMjckbxYqEUnEKg\nY/mK8NWtAgMBAAECggEAAu/0bL1Cu8DFmZrrLRQ3FnZDxNnTxIpZat9mnqC08C6I\nyy+c4bNqxWxIXD0IFBpxEiMJ4zir8RpFt7xGkQNimr8KkqQY+mXcLs1QRZBgqpEM\n4RMJhbDvBC8Bd1+wwwuGB6POwdCIkK+N+Ge/L/3EHEOeWpO9Qc//vnrXro1WL8KR\nAtHm2y9l/ZRGtrk3UbrlkSE0xa1rww3PSysmd+EMTBoNhWQGMtbwCS9lVu2xQ5Cm\nE+qSZqEParFTWayWPj2WS1BC/hXfLnhhCRfBUAfd9xmnFIo/HlbpAoM9mvkGRkOd\n3JNukRhTCcK2k+L5KihW3FVcwZenp1WKCxjQJ4lYQQKBgQDxdiVROnQTESGBz8b3\n+jV6qOYs8ByW6pBJp1U9ULwU12os+QAIvsnFd5gndQyXmXI8CcaPIk2IjdWeD+7o\nHVuIDhWHZTOtg+1cqa+pqJS6XO5qGH0l348aqIN1jvpYYaZvvPURSGwqpVrlyqvG\nqMbrQ2XFQ0P+JJ7R9Eeu1HEddQKBgQDmH6RkqsYq7w5cCWGx3QIhrurajgfSjcKO\nRi081hNmQTeZfYL6W7wuCF8A1QiUnVau6qY1V8Y/cN5Fef+xihsmNVtQK+MhSJdS\nmkp2AQcD8mW31UcjvM5jIZJTMIvbrXriK/O+wBNnruuyLuicKPYP9rEK/oCLwKC9\nJCJH6vw4WQKBgQCD8qD/22Z0yOa7jjRXbFZvGf72TZwB6FpCtXtCD21IIlM2Ejev\nj7qo+uqdnTvtV//xyRHFQ+SEm6VBQ8m0894B4lhnbakox7Ac8+k3WBU2JfRu68Tv\nvlPwKGf2BNTPGUWfR+3PrPjW8RdT/UWTQMW66FCj1FdCePaFGu1VH2hUxQKBgAhS\naJ2DV3tB/eDyLehCt8sEClYxALNqkPiYLRagHz95aEtSsKPhIWMAxn6/NXo6XmIg\n9jXDoNW2fTNCAC8pcWXmVBEIJUSU3XQNRFgUHW7VGzyUp+fw8f2/vwznGoetNF5t\nfHkPdSQwvTFKZPsQuCVHpItjPL7RDn8IiXzUUJ6xAoGAcjYdm5emDXt69JrvVNy9\n4sF2p9Ujz7z+2NKR+GzgNpgX8WOW4qW+ppD/TwIWLaCcotd/uNd4q3mg+Wan8Xp6\nxYtrWWZRQTe2wIlbe560q2/VGrYCiske4YmmMR/q7jtUQVwP9GKXRUYogdVDYznw\n67j57+MM2mP6JoX7zfv0GNo=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-co6r9@nandhaproject-37058.iam.gserviceaccount.com",
-  "client_id": "100092325075020801589",
+  "project_id": "37058",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-co6r9%40nandhaproject-37058.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
