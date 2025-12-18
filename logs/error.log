@@ -1,0 +1,4 @@
+
+2022-04-02 16:44:38,877 ERROR PushNotificationService:25 - [] com.google.firebase.messaging.FirebaseMessagingException: The registration token is not a valid FCM registration token
+2022-04-02 16:44:49,103 ERROR PushNotificationService:25 - [] com.google.firebase.messaging.FirebaseMessagingException: The registration token is not a valid FCM registration token
+2022-04-02 16:44:59,822 ERROR PushNotificationService:25 - [] com.google.firebase.messaging.FirebaseMessagingException: The registration token is not a valid FCM registration token
